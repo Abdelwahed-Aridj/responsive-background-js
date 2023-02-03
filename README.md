@@ -1,1 +1,1 @@
-# dmc-home
+website with animated background
